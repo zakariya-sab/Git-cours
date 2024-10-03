@@ -1,2 +1,2 @@
 # Git-cours
-for lern Git
+for learn Git
